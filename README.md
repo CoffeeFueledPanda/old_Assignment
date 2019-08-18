@@ -16,3 +16,6 @@ An old assignment that I had to do for an IT firm, it's a mock-up for a business
 
 * Font Awesome
 * Google Fonts
+* Header Photo by [Sebastian Unrau](https://unsplash.com/@sebastian_unrau?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/t/nature?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+* Logo image by [Freepik](https://www.flaticon.com/authors/freepik) on [Flaticon](https://www.flaticon.com/)
+* Payment icons by [Roundicons](https://www.flaticon.com/authors/roundicons) on [Flaticon](https://www.flaticon.com/)
